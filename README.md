@@ -1,6 +1,6 @@
 # My future portfolio!
 
-## Hi to whoever reading this, this is my portfolio and I did a lot of effort doing this, I thought I will only use small lines of codes but I ended up having more lines.
+## Hi! This is my portfolio and I did a lot of effort doing this, I thought I will only use small lines of codes but I ended up having more lines.
 
 ### I created this because it will be my reference to my future job application, I will keep on updating it and hopefully I can use front-end frameworks to make this more beautiful.
 
