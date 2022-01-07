@@ -349,4 +349,8 @@ footer {
     .contact-me-styling img {
         width: 120px;
     }
+
+    .contact-me a {
+        text-decoration: none;
+    }
 }
