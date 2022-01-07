@@ -344,13 +344,10 @@ footer {
     
     .contact-me-styling ul li:last-child img {
         margin-top: auto;
+        text-decoration: none;
     }
     
     .contact-me-styling img {
         width: 120px;
-    }
-
-    .contact-me a {
-        text-decoration: none;
     }
 }
