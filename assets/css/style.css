@@ -71,14 +71,14 @@ header nav a:hover {
     text-align: center;
     flex-direction: column;
     flex-wrap: wrap;
-    font-size: 55px;
+    font-size: 46px;
     align-items: center;
     margin-top: -45px;
     min-height: 100vh;
 }
 
 .hero-text-styling h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 /* hero styling ends */
 
@@ -297,7 +297,7 @@ footer {
 
     .hero-text-styling {
         width: 80%;
-        margin: auto;
+        margin: -100px auto;
     }
 
     .section-styling img {
@@ -313,8 +313,8 @@ footer {
 
     .section-p-styling {
         color: var(--primary-color);
-        width: 75%;
-        font-size: 20px;       
+        width: 85%;
+        font-size: 14px;       
     }
 
     .section-h4-styling {
