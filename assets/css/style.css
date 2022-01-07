@@ -343,12 +343,16 @@ footer {
         color: var(--primary-color);
     }
     
+    .contact-me-styling a img {
+        width: 75px;
+    }
+
     .contact-me-styling ul {
         display: flex;
         list-style: none;
         margin: auto;
         justify-content: space-around;
-        width: 70vh;
+        width: 50vh;
         text-align: center;
         flex-wrap: wrap;
         justify-content: space-between;
